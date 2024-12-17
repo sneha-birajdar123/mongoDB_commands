@@ -1,0 +1,8 @@
+updateOne():
+
+This method updates a single document that matches a query.
+
+db.users.updateOne({
+    userID : "i101",
+    username : "neha"
+})

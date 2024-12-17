@@ -1,0 +1,5 @@
+drop():
+
+The drop() method is used to delete a collection or a database.
+
+Example : db.users.drop()

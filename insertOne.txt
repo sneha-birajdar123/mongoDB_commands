@@ -1,0 +1,21 @@
+insertOne():
+
+The insertOne() method is used to insert a single document into a collection.
+
+Example: db.users.insertOne({
+    userID : "i101",
+    username : "sneha",
+    password : "sneha123",
+    email : "sneha@gmail.com",
+    age : 22,
+    followers : 200,
+    following : 100,
+    posts : [
+        postId: 01,
+        likes : 40,
+        comments : 23,
+        shared : 12
+    ]
+    requests : 2,
+    accountStatus : "private account"
+})

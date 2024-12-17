@@ -1,0 +1,5 @@
+USE command:
+
+The "use" command will create or switch into a specific database.
+
+Example: use Instagram

@@ -1,0 +1,6 @@
+dropDatabase():
+
+The dropdb command in MongoDB is used to drop an entire database, 
+meaning it will remove the database along with all its collections, documents, and indexes.
+
+Example : db.dropDatabase()

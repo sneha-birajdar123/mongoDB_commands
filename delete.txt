@@ -1,0 +1,16 @@
+delete():
+
+deleteOne():
+
+The deleteOne() method removes one document that matches the given query.
+
+Example: db.users.deleteOne({username : "sneha"})
+
+
+
+
+deleteMany() :
+
+The deleteMany() method removes all documents that match the query. 
+
+Example : db.users.deleteOne({username : "sneha"})

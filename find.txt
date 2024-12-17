@@ -1,0 +1,5 @@
+find():
+
+The find() method is used to retrieve documents from a collection based on a query.
+
+Example: db.users.find({userID : "i101"})

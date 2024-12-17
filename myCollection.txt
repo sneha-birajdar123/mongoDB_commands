@@ -1,0 +1,5 @@
+createCollection:
+
+The createCollection command is used to create a new collection in the current database.
+
+Example: db.createCollection("users")
